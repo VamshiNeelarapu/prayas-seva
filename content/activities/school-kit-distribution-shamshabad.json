@@ -1,0 +1,31 @@
+{
+  "slug": "school-kit-distribution-shamshabad",
+  "title": "School Kit Distribution – ZPHS Shamshabad",
+  "category": "Education",
+  "date": "2025-06-12",
+  "location": "Zilla Parishad High School, Shamshabad",
+  "summary": "Notebooks, uniforms, and stationery kits distributed to 210 government school students.",
+  "description": "At the start of the academic year, Prayas Seva distributed school kits — notebooks, uniforms, geometry boxes, and stationery — to 210 students across grades 1 to 8 at ZPHS Shamshabad. Kits were funded through individual donor sponsorships of ₹750 per child. Teachers and the school management committee helped identify students most in need ahead of the distribution day.",
+  "coverImageId": "activities/school-kit-distribution-shamshabad/cover",
+  "images": [
+    "activities/school-kit-distribution-shamshabad/img-001",
+    "activities/school-kit-distribution-shamshabad/img-002",
+    "activities/school-kit-distribution-shamshabad/img-003",
+    "activities/school-kit-distribution-shamshabad/img-004",
+    "activities/school-kit-distribution-shamshabad/img-005",
+    "activities/school-kit-distribution-shamshabad/img-006",
+    "activities/school-kit-distribution-shamshabad/img-007"
+  ],
+  "instagramLinks": [
+    {
+      "url": "https://www.instagram.com/reel/example-school-kits-01/",
+      "thumbnailImageId": "activities/school-kit-distribution-shamshabad/reel-thumb-01",
+      "caption": "210 smiles at our school kit distribution day"
+    },
+    {
+      "url": "https://www.instagram.com/reel/example-school-kits-02/",
+      "thumbnailImageId": "activities/school-kit-distribution-shamshabad/reel-thumb-02",
+      "caption": "Thank you note from ZPHS Shamshabad students"
+    }
+  ]
+}

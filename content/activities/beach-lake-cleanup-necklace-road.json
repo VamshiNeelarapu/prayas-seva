@@ -1,0 +1,32 @@
+{
+  "slug": "beach-lake-cleanup-necklace-road",
+  "title": "Lake Cleanup Drive – Necklace Road",
+  "category": "Environment",
+  "date": "2026-02-08",
+  "location": "Necklace Road, Hussain Sagar, Hyderabad",
+  "summary": "120 volunteers collected over 800 kg of plastic waste along the Hussain Sagar lakefront.",
+  "description": "Every quarter, Prayas Seva organizes a community cleanup drive along the Hussain Sagar lakefront to reduce plastic waste entering the lake. This edition brought together 120 volunteers, including 30 students from partner schools, who collected and segregated over 800 kg of waste in under four hours. Segregated plastic was handed over to a certified recycling partner, and food waste was composted on-site by our environment team.",
+  "coverImageId": "activities/beach-lake-cleanup-necklace-road/cover",
+  "images": [
+    "activities/beach-lake-cleanup-necklace-road/img-001",
+    "activities/beach-lake-cleanup-necklace-road/img-002",
+    "activities/beach-lake-cleanup-necklace-road/img-003",
+    "activities/beach-lake-cleanup-necklace-road/img-004",
+    "activities/beach-lake-cleanup-necklace-road/img-005",
+    "activities/beach-lake-cleanup-necklace-road/img-006",
+    "activities/beach-lake-cleanup-necklace-road/img-007",
+    "activities/beach-lake-cleanup-necklace-road/img-008"
+  ],
+  "instagramLinks": [
+    {
+      "url": "https://www.instagram.com/reel/example-lake-cleanup-01/",
+      "thumbnailImageId": "activities/beach-lake-cleanup-necklace-road/reel-thumb-01",
+      "caption": "Highlights from our February lake cleanup drive"
+    },
+    {
+      "url": "https://www.instagram.com/reel/example-lake-cleanup-02/",
+      "thumbnailImageId": "activities/beach-lake-cleanup-necklace-road/reel-thumb-02",
+      "caption": "Volunteers segregating collected waste on-site"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "free-health-checkup-camp-ranga-reddy",
+  "title": "Free Health Checkup Camp – Ranga Reddy District",
+  "category": "Health",
+  "date": "2026-01-18",
+  "location": "Government PHC, Shamshabad, Ranga Reddy District",
+  "summary": "Free general health checkups, eye screening, and medicine distribution for 340 villagers.",
+  "description": "In partnership with two visiting general physicians and an ophthalmologist, Prayas Seva hosted a free health camp at the Shamshabad Primary Health Centre. 340 villagers were screened for common ailments, blood pressure, and diabetes; 95 received free spectacles after eye screening. Basic medicines were dispensed on-site, and cases requiring further treatment were referred to Gandhi Hospital with follow-up support from our health team.",
+  "coverImageId": "activities/free-health-checkup-camp-ranga-reddy/cover",
+  "images": [
+    "activities/free-health-checkup-camp-ranga-reddy/img-001",
+    "activities/free-health-checkup-camp-ranga-reddy/img-002",
+    "activities/free-health-checkup-camp-ranga-reddy/img-003",
+    "activities/free-health-checkup-camp-ranga-reddy/img-004",
+    "activities/free-health-checkup-camp-ranga-reddy/img-005",
+    "activities/free-health-checkup-camp-ranga-reddy/img-006"
+  ],
+  "instagramLinks": [
+    {
+      "url": "https://www.instagram.com/reel/example-health-camp-01/",
+      "thumbnailImageId": "activities/free-health-checkup-camp-ranga-reddy/reel-thumb-01",
+      "caption": "Inside our January health camp at Shamshabad PHC"
+    }
+  ]
+}

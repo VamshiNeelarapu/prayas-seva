@@ -1,0 +1,24 @@
+{
+  "slug": "tailoring-skill-training-uppal",
+  "title": "Tailoring & Skill Training Workshop – Uppal",
+  "category": "Women Empowerment",
+  "date": "2025-11-03",
+  "location": "Prayas Skill Center, Uppal, Hyderabad",
+  "summary": "18 women completed a 3-month tailoring and embroidery training batch, 11 now earning independently.",
+  "description": "Our Uppal skill center runs rolling 3-month batches teaching tailoring, embroidery, and basic garment costing to women from nearby low-income neighborhoods. This batch graduated 18 women; 11 have since taken up stitching orders independently or joined local garment units, and 4 have started home-based tailoring businesses supported with a starter sewing machine from Prayas Seva.",
+  "coverImageId": "activities/tailoring-skill-training-uppal/cover",
+  "images": [
+    "activities/tailoring-skill-training-uppal/img-001",
+    "activities/tailoring-skill-training-uppal/img-002",
+    "activities/tailoring-skill-training-uppal/img-003",
+    "activities/tailoring-skill-training-uppal/img-004",
+    "activities/tailoring-skill-training-uppal/img-005"
+  ],
+  "instagramLinks": [
+    {
+      "url": "https://www.instagram.com/reel/example-tailoring-01/",
+      "thumbnailImageId": "activities/tailoring-skill-training-uppal/reel-thumb-01",
+      "caption": "Graduation day at our Uppal skill training center"
+    }
+  ]
+}
